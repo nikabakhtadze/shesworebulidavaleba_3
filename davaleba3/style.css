@@ -1,0 +1,57 @@
+body{
+    background-color: white;
+    padding: 30px;
+}
+.container1{
+    color: #000000;
+    text-align:center;
+}
+.container2>img{
+    width: 258px;
+    height: 258px; 
+    margin-top: 5px;
+}
+.container3{
+    max-width: 1364px;
+    color: #000000;
+    text-align: center;
+}
+.container4>img{
+    width: 258px;
+    height: 258px;
+}
+.container5{
+    color: #000000;
+    text-align: center;
+}
+.container6{
+    max-width: 1364px;
+    color: #000000;
+    text-align: center;
+}
+.container7{
+    color: #000000;
+    text-align: left;
+}
+.container8>img{
+    width: 237.95px;
+    height: 184.57px;
+}
+.container9{
+    max-width: 1363px;
+    color:#000000;
+    text-align: left;
+}
+.container10{
+    text-align: left;
+    color:#000000;
+}
+.container11>img{
+    width: 323px;
+    height: 148.38px;
+}
+.container12{
+    max-width: 1323px;
+    text-align:center;
+    color:#000000;
+}
